@@ -1,0 +1,9 @@
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:400;font-display:swap;src:url('InstrumentSans-0.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:500;font-display:swap;src:url('InstrumentSans-1.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:600;font-display:swap;src:url('InstrumentSans-2.ttf') format('truetype')}
+@font-face{font-family:'Instrument Sans';font-style:normal;font-weight:700;font-display:swap;src:url('InstrumentSans-3.ttf') format('truetype')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:400;font-display:swap;src:url('Inter-Regular.woff2') format('woff2')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:600;font-display:swap;src:url('Inter-Semibold.woff2') format('woff2')}
+@font-face{font-family:'Inter';font-style:normal;font-weight:700;font-display:swap;src:url('Inter-Bold.woff2') format('woff2')}
+@font-face{font-family:'Taipei Sans TC';font-style:normal;font-weight:400;font-display:swap;src:url('TaipeiSansTCBeta-Regular.woff') format('woff');unicode-range:U+2E80-9FFF,U+F900-FAFF,U+FE10-FFFF}
+@font-face{font-family:'Taipei Sans TC';font-style:normal;font-weight:600 800;font-display:swap;src:url('TaipeiSansTCBeta-Bold.woff') format('woff');unicode-range:U+2E80-9FFF,U+F900-FAFF,U+FE10-FFFF}
